@@ -1,3 +1,6 @@
+<img src="https://komarev.com/ghpvc/?username=Sidziesama" alt="satvik:)" />
+
+
 <h1 align="left">Hi👋, I'm Siddhant Yadav</h1>
 
 <h3 align="left">An engineering student with a keen interest in investing, entrepreneurship, and technology </h3>
