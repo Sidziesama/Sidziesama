@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Siddhant Yadav</h1>
 <h3 align="center">An engineering student with a keen interest in investing, entrepreneurship, and technology</h3>
-<img align= "right" alt= "Coding" width="200" src="https://c.tenor.com/IZ06eAkI7AEAAAAS/cactus-jack-glitch.gif">
+<h3 align="left"> Student at Mahindra University, majoring in Electronics and Computer Engineering (2020-2024) </h3>
+
+
+<img align= "right" alt= "Coding" width="170" src="https://c.tenor.com/IZ06eAkI7AEAAAAS/cactus-jack-glitch.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidziesama&label=Profile%20views&color=0e75b6&style=flat" alt="sidziesama" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sidziesama" target="blank"><img src="https://img.shields.io/twitter/follow/sidziesama?logo=twitter&style=for-the-badge" alt="sidziesama" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
