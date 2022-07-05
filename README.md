@@ -8,7 +8,7 @@
 -  Student at Mahindra University, majoring in Electronics and Computer Engineering (2020-2024) 
 
 Current Interests- 
-1) Trying to make a trading bot that buys and sells tokens by itself 
+1) Working on a trading bot that buys and sells tokens by itself 
 2) Learning about algorithmic trading
 
  <img align= "right"  width="170" src="https://c.tenor.com/IZ06eAkI7AEAAAAS/cactus-jack-glitch.gif">
