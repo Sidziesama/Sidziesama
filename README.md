@@ -1,7 +1,10 @@
 <h1> About - 💬 </h1>
 <p> 
 I am an engineer who likes technology, entrepreneurship, and finance. <br></br>
+🌱 I’m currently fascinated by transformers, LLMs, and AI development. 
 </p>
+
+
 <!--
 **Sidziesama/Sidziesama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
