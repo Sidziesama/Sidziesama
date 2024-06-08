@@ -1,8 +1,7 @@
 <h1> About - 💬 </h1>
 <p> 
-An engineering student with a keen interest in entrepreneurship, technology and finance. <br></br>
+I am an engineer who likes technology, entrepreneurship, and finance. <br></br>
 </p>
-
 <!--
 **Sidziesama/Sidziesama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
