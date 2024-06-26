@@ -1,7 +1,7 @@
 <h1> About - 💬 </h1>
 <p> 
-I am an engineer who likes technology, entrepreneurship, and finance. <br></br>
-🌱 Currently interested in transformers, LLMs, and NLP.
+An engineer who likes technology, entrepreneurship, and finance. <br></br>
+🌱 Currently interested in transformers, LLMs, and NLP. <br></br>
 🔭 Picking up Computer Vision
 </p>
 
