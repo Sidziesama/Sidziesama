@@ -1,8 +1,8 @@
 <h1> About - 💬 </h1>
 <p> 
 An engineer who likes technology, entrepreneurship, and finance. <br></br>
-🌱 Currently interested in transformers, LLMs, and NLP. <br></br>
-🔭 Picking up Computer Vision
+🌱 Currently interested in Artificial Intelligence and Finance. <br></br>
+🔭 Currently working around AI Agents and Agentic workflows 
 </p>
 
 
